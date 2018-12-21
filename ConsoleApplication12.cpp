@@ -26,7 +26,7 @@ int main() {
 	}
 	if (max == maxm)
 		cout << "Biggest| |: " << maxm << endl;
-	else cout << -1 * maxm << endl;
+	else cout << "Biggest| |: " << -1 * maxm << endl;
 
 
 	int j1 = -1, j2 = -1;
